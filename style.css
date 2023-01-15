@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide|Sofia|Trirong");
+.navbar {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.head {
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
+
+html {
+    overflow-x: hidden;
+    height: auto;
+}
+
+body {}
+
+#services img {
+    width: 100%;
+    height: auto;
+}
